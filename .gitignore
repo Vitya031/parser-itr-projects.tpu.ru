@@ -1,0 +1,7 @@
+/venv/
+/.idea
+chromedriver
+index.html
+parser.py
+req.txt
+requirements.txt
