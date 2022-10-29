@@ -1,6 +1,6 @@
 /venv/
 /.idea
-chromedriver
+chromedriver.exe
 index.html
 parser.py
 req.txt
